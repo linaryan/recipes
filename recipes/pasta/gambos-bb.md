@@ -1,6 +1,6 @@
-*** Semi-Basic Bitch Pasta ***
+# Semi-Basic Bitch Pasta
 
-** Ingredients **
+## Ingredients
 - Bacon
 - Shallots
 - Mushrooms
@@ -8,5 +8,5 @@
 - Tomato pesto
 - Cream. 
 
-** Method **
+## Method
 Cook everything, add the pesto and cream to taste, then stir through cooked pasta.
