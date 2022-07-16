@@ -2,4 +2,4 @@
 
 Where Pineapple is King
 
-Coming Soon
+[DanDan's Dough](./recipes/pizza/dd-dough)
