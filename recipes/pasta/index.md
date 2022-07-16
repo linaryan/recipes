@@ -2,4 +2,4 @@
 
 Carb town
 
-[Gambo's Semi-BB](./pasta/gambos-bb.md)
+[Gambo's Semi-BB](./pasta/gambos-bb)
